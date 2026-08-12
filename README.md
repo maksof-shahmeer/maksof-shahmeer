@@ -185,16 +185,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maksof-shahmeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksof-shahmeer&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksof-shahmeer&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-shahmeer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maksof-shahmeer&theme=tokyonight" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maksof-shahmeer&theme=tokyonight" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maksof-shahmeer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maksof-shahmeer&theme=tokyonight" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maksof-shahmeer&theme=tokyonight&utcOffset=5" alt="Most productive hours" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksof-shahmeer&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ### 🐍 Watch the snake eat my contributions
