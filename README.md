@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shahmeerbinshahzad">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+5%2B+Years;AI+%26+Automation+Engineer;Next.js+%C2%B7+React+%C2%B7+Angular+%C2%B7+Node.js;LLM+Apps+%C2%B7+RAG+Pipelines+%C2%B7+n8n+Automation;I+ship+production+AI%2C+not+demos." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+3%2B+Years;AI+%26+Automation+Engineer;Next.js+%C2%B7+React+%C2%B7+Angular+%C2%B7+Node.js;LLM+Apps+%C2%B7+RAG+Pipelines+%C2%B7+n8n+Automation;I+ship+production+AI%2C+not+demos." alt="Typing SVG" />
   </a>
 </p>
 
